@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bot",
+  "version": "1.0.0",
+  "description": "A nodejs Bot",
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanleoussis/nodejs-bot.git"
+  },
+  "author": "Stefan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanleoussis/nodejs-bot/issues"
+  },
+  "homepage": "https://github.com/stefanleoussis/nodejs-bot#readme",
+  "dependencies": {
+    "playwright": "^1.23.4"
+  }
+}
